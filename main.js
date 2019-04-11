@@ -3,6 +3,7 @@ function Display(){
   let prenom = document.getElementById('firstname').value;
   let ville = document.querySelector('#city').value;
   alert(nom + "\n" + prenom + "\n" + ville);
+  //Concaténation
 }
 
 
